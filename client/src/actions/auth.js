@@ -12,7 +12,7 @@ import {
 } from './types';
 
 import setAuthToken from '../utils/setAuthToken';
-import { check } from 'express-validator';
+//import { check } from 'express-validator';
 
 //LOAD USER
 export const loadUser = () => async dispatch => {
