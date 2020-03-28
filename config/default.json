@@ -2,5 +2,5 @@
   "mongoURI": "mongodb+srv://sumit123:sumit123@mern-mvl6p.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
   "githubClientId": "1088ee3260106c51ab06",
-  "githubSecret": "ffbd29bf5e3368203ef715d6d647adfc574963ea"
+  "githubSecret": "ecffd06797c2e7b31064de72b1e829f4dd87b169"
 }
